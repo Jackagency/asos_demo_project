@@ -1,4 +1,4 @@
-package cloud.autotests.config;
+package asos.config;
 
 import org.aeonbits.owner.ConfigFactory;
 

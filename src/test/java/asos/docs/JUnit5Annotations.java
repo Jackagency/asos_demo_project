@@ -1,4 +1,4 @@
-package cloud.autotests.docs;
+package asos.docs;
 
 import org.junit.jupiter.api.*;
 
