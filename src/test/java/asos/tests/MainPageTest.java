@@ -145,8 +145,8 @@ public class MainPageTest extends TestBase {
     }
 
     @Test
-    @Description("Search tests")
-    @DisplayName("Search for New Balance")
+    @Description("Broken tests")
+    @DisplayName("Broken test two")
     @Disabled
     void brokenTest() {
         step("Open https://www.asos.com/", () -> {
@@ -163,8 +163,8 @@ public class MainPageTest extends TestBase {
     }
 
     @Test
-    @Description("Search tests")
-    @DisplayName("Search for New Balance")
+    @Description("Broken tests")
+    @DisplayName("Broken test one")
     @Disabled
     void brokenTestTwo() {
         step("Open https://www.asos.com/", () -> {
